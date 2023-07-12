@@ -8,8 +8,6 @@ other: "https://sloan.org/grant-detail/10073"
 
 The URSSI policy project asks “How can policy be used to increase the sustainability and impact of research software in the scholarly research community?” It has three objectives: 1) Influencing positive policy changes, 2) Understanding why such changes succeed and fail in this context, and 3) Planning for future policy work based on these lessons.
 
-The project will rely on a postdoc, and is currently seeking the right person; see the [job posting](https://www.ncsa.illinois.edu/about/careers/#po)
-
  <!--more--> 
 
 The project tasks are to:
