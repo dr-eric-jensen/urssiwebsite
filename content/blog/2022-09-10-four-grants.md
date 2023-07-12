@@ -21,10 +21,4 @@ efforts around training researchers in modern software engineering practices. We
 from the NSF's Early-concept Grants for Exploratory Research (EAGER) program, led by Nic Weber, to understand
 past software efforts’ fate and develop a taxonomy of successful sustainability models. 
 
-Over the coming months, we’ll be hiring for several roles including a [full-time community manager](https://codeforscience.org/jobs/community-manager-us-research-software-sustainability-institute/),
-a [policy postdoctoral fellow](https://drive.google.com/file/d/1XeGmYuSlYMTW5MCN9rAvL4vPkMY-Fhj5/view)
-at the University of Illinois, and a software postdoctoral fellow at the University of Washington (to be announced).
-By the end of fall 2022, we plan to launch various community-focused activities, which include
-monthly community calls, a compendious newsletter modeled after the
-[Data Science Community Newsletter](https://academicdatascience.org/resources/newsletter) and so much more.
 Stay tuned!
